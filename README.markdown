@@ -6,7 +6,7 @@ All useful imformation has been centeralized in `_config.yml`.
 
 ## How to use
 ### to one who received this
-Just click [here](http://simonmysun.github.io/HappyBirthdayToJinGe/index.html) to view.
+Just click [here](http://dsandeepchary.github.io/HappyBirthdayToYou) to view.
 
 ### to one who want's to use this
 Just place the code anywhere you want and make some small changes in `index.html`. It must be the only file you need to change.
@@ -15,7 +15,7 @@ Just place the code anywhere you want and make some small changes in `index.html
 Fork this repo and modify the code. I know that the code is ugly. Please forgive me.. 
 
 ## Copyright
-* Rearrange & remade by MY Sun
+* Rearrange & remade by Sandeep Chary
 * Using frame from HackerZhou
 * Firework made by Jackrugile
 * Flower made by FlowerPower
